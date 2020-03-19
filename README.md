@@ -2,5 +2,5 @@
 
 ## Preview
 
-<img src="https://github.com/prongbang/CustomTableView/blob/master/Screeenshot/preview.png?raw=true" style="width: 50%;"/>
+<img src="https://raw.githubusercontent.com/prongbang/CustomTableView/master/Screenshot/preview.png" style="width: 50%;"/>
 
